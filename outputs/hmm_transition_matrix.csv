@@ -1,0 +1,6 @@
+,Risk-On,Risk-Off,Transitional,Late-Cycle,Post-Shock
+Risk-On,0.9726,0.0,0.0,0.0274,0.0
+Risk-Off,0.0,0.9735,0.0,0.0,0.0265
+Transitional,0.0,0.0,0.8893,0.0527,0.058
+Late-Cycle,0.0237,0.0,0.0282,0.9481,0.0
+Post-Shock,0.0,0.0268,0.0567,0.0,0.9165

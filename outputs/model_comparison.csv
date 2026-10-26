@@ -1,0 +1,6 @@
+model,log_score,brier,ece,accuracy
+"HMM (filtered, A^h)",-1.6672,0.6919,0.2651,0.5397
+Logistic,-1.3519,0.6286,0.0961,0.5234
+Deep ensemble (5 MLPs),-1.1244,0.5688,0.0626,0.5621
+Class-frequency baseline,-1.7117,0.8488,0.2227,0.0978
+ENSEMBLE (stacking),-1.1346,0.5725,0.0438,0.5723
